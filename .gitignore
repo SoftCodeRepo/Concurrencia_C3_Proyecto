@@ -1,3 +1,5 @@
-./__pycache__
-./registro.txt
-././__pycache__
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.txt
