@@ -15,7 +15,7 @@ def iniciar_interfaz():
 
     app = ControladorAlfabetizador(marco)
 
-    creditos = tk.Label(ventana, text="Hecho por Christian Jesús", font=("Arial", 10), bg="#e1f5fe", fg="#0288d1")
+    creditos = tk.Label(ventana, text="Hecho por SoftCodeUP", font=("Arial", 10), bg="#e1f5fe", fg="#0288d1")
     creditos.pack(pady=5)
 
     ventana.mainloop()
